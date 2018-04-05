@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Material design margin and padding values by recomended convention
+    <dimen name="material_margin_extra_tiny">2dp</dimen>
+    <dimen name="material_margin_tiny">4dp</dimen>
+    <dimen name="material_margin_small">8dp</dimen>
+    <dimen name="material_margin_medium">16dp</dimen>
+    <dimen name="material_margin_large">24dp</dimen>
+    <dimen name="material_margin_xlarge">32dp</dimen>
+    <dimen name="material_margin_xxlarge">48dp</dimen>
+    <dimen name="material_margin_xxxlarge">72dp</dimen>
+
+    <dimen name="material_padding_tiny">4dp</dimen>
+    <dimen name="material_padding_small">8dp</dimen>
+    <dimen name="material_padding_medium">16dp</dimen>
+    <dimen name="material_padding_large">24dp</dimen>
+    <dimen name="material_padding_xlarge">32dp</dimen>
+    <dimen name="material_padding_xxlarge">48dp</dimen>
+
+    <dimen name="material_default_button_height">48dp</dimen>
+</resources>
