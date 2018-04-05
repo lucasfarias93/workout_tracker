@@ -2,6 +2,7 @@
     <string name="app_name">My Application</string>
     <string name="start_the_workout">START \nYOUR \nWORKOUT</string>
     <string name="nav_bar_home_text">Home</string>
+    <string name="nav_bar_recent_text">Recent Act.</string>
     <string name="nav_bar_history_text">History</string>
     <string name="nav_bar_settings_text">Settings</string>
     <string name="total_kms">Total kms.</string>
